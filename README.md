@@ -8,10 +8,14 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
-[Breast Cancer Predictions ](github link)
+[Breast Cancer Predictions ](https://github.com/jaytatiya18/breast-cancer-predictions)
 
 ### Skills
-
+Pharmaceutial 
+Python
+Machine Learning 
+Tableau
+Pandas
 
 <!---
 jaytatiya18/jaytatiya18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
