@@ -8,7 +8,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
-[Name of your project](github link)
+[BReast Cancer Predictions ](github link)
 
 ### Skills
 
