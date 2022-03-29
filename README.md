@@ -5,7 +5,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 - 🤝 Open for job in  analytics,data science and python
-- 👨 Know more about me at [My Resume](https://drive.google.com/file/d/1QgEg6RcKpQNS2ZuqDcqTtkAcOluHW6ho/view?usp=sharing) 
+- 👨 Know more about me at [My Resume](https://drive.google.com/file/d/1QnpR2qbYZHWH7KuF1Xje__q4_gU5s42V/view?usp=sharing) 
 
 ### My Recent projects 
 Project Title: Breast Cell Cancer Prediction Using Machine Learning Algorithms 
