@@ -36,6 +36,7 @@ Project Title: Used Car Price Prediction with Deployment
 • To predict used cars market value can help both buyers and sellers.
 • Applied Various regression machine learning algorithms and also performed hyperparameter tunning
 • Deployed on Heroku platform & AWS Beanstalk
+GitHub Link: https://github.com/jaytatiya18/Project-end-to-end
 
 
 ### Skills
